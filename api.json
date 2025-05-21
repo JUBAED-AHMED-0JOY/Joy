@@ -1,3 +1,8 @@
 {
-  "imgur": "https://joy-404-imgur-api.onrender.com"
+  "api": "http://65.109.80.126:20392",
+  "api2": "http://65.109.80.126:20392",
+  "sim": "http://65.109.80.126:20392",
+  "gemini": "https://nayan-gemini-api.onrender.com",
+  "gpt4": "https://nayan-gpt4-37qr.onrender.com",
+  "down_stream": "http://67.220.85.157:6472"
 }
